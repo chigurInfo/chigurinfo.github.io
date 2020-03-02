@@ -1,0 +1,148 @@
+@charset "windows-1251";
+
+body {	
+		font-family: Verdana, Arial, sans-serif;
+		font-size: 9pt;
+		font-weight: normal;
+		color: #515151;
+		margin: 0;
+	 }
+
+table{	
+		font-family: Verdana, Arial, sans-serif;
+		font-size: 10pt;
+		font-weight: normal;
+		color: #515151;
+		margin: 0;
+		padding: 0 0 0 0;
+		}
+
+ul{
+		margin-top: 6px;
+		}
+		
+a:link,
+a:visited,
+a:active{	
+			text-decoration: underline;
+			}
+a:hover{	
+			text-decoration: none;
+			}
+
+			
+h1, .high1{	
+			font: 18pt Georgia, Times New Roman, Times, serif;
+			color: #f46200;
+			margin: 0px;
+			padding: 0px;
+		 }
+h2, .high2{	
+			font: 14pt Georgia, Times New Roman, Times, serif;
+			color: #f46200;
+			margin: 16px 0 2px 0;
+			padding: 0 0 0 0;
+		 }
+
+
+.footer{
+			font: 10pt Times New Roman, Verdana, Arial, sans-serif;
+			color: #FFF;
+			}
+
+.footer a:link,
+.footer a:visited,
+.footer a:active{	
+			color: #FFF;
+			text-decoration: underline;
+			}
+.footer a:hover{	
+			color: #FE5400;
+			text-decoration: none;
+			}
+
+a.contact:link,
+a.contact:visited,
+a.contact:active{	
+			color: #f46200;
+			text-decoration: underline;
+			}
+a.contact:hover{	
+			color: #f46200;
+			text-decoration: none;
+			}
+
+a.intext:link,
+a.intext:visited,
+a.intext:active{	
+			color: /*#8A8A8A;*/#0071A8;
+			text-decoration: underline;
+			}
+a.intext:hover{	
+			color: #f46200;
+			text-decoration: none;
+			}
+
+a.work:link,
+a.work:visited,
+a.work:active{	
+			font: 14pt Georgia, Times New Roman, Times, serif;
+			color: #f46200;
+			margin: 20px 0 4px 0;
+			padding: 0 0 0 0;
+			text-decoration: underline;
+			}
+a.work:hover{	
+			font: 14pt Georgia, Times New Roman, Times, serif;
+			color: #f46200;
+			margin: 20px 0 4px 0;
+			padding: 0 0 0 0;
+			color: #f46200;
+			text-decoration: none;
+			}
+
+.sent_form_text{
+			padding: 2px;
+			border-top: 1px solid #E2E2E2;
+			}
+
+acronym, .dashed{
+			cursor: help;
+			border-bottom: 1px dashed #796300;
+			color: #796300;
+			}
+
+			
+			
+.message{
+			margin: 20px 0 10px 0; 
+			padding: 16px 10px;
+			border: 1px dashed #D3D0C7;
+			font-size: 10pt;
+			}
+.comment{
+			text-align: center;
+			color: red/*#FF7300;*/; 
+			border-left: 1px solid #E2E2E2;
+			border-bottom: 1px solid #E2E2E2;
+			border-right: 1px solid #E2E2E2;
+			background: #FFF4C8;
+			padding: 2px 4px;
+			margin: 0 0 6px 0; 
+			}
+
+.plain{
+			font-weight: normal;
+			color: #4A4A4A; 
+			}
+			
+.temp{ visibility: hidden;  position: absolute; z-index:  3;}	 
+.temp2{
+		color: #919191;
+		}
+/*~~~~~~~~~~~~~~~ Тексты которые в процессе проверки ~~~~~~~~~~~~~*/ /*
+.temp2{
+		color: #919191;
+		}
+*/ /*~~~~~~~~~~~~~~~ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ~~~~~~~~~~~~~*/
+			
