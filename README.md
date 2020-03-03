@@ -1,1 +1,0 @@
-# chigurinfo.github.io
